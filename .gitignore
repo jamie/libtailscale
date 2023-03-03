@@ -1,9 +1,11 @@
 libtailscale.so
 libtailscale.a
 libtailscale.h
+libtailscale.tar*
 /ruby/tmp/
 /ruby/doc/
 /ruby/ext/libtailscale/*.go
 /ruby/ext/libtailscale/go.mod
 /ruby/ext/libtailscale/go.sum
 /ruby/LICENSE
+/vendor/
